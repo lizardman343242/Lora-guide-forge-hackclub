@@ -12,7 +12,7 @@ description: "lora puck pcb guide"
 created_at: "2026-03-20"
 ---
 ---
-"Id":"Designator":"Footprint":"Quantity":"Designation":"Supplier and ref"
+Id:"Designator":"Footprint":"Quantity":"Designation":"Supplier and ref"
 1:"AE1":"PinSocket_1x01_P2.54mm_Vertical":1:"Antenna"
 2:"C2, C3":"C_0402_1005Metric":2:"100nf"
 3:"C4":"C_0402_1005Metric":1:"470nF"
