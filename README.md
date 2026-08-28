@@ -1,5 +1,7 @@
 # Lora-guide-forge-hackclub
 
+<img width="845" height="563" alt="image" src="https://github.com/user-attachments/assets/43cdadf5-eb73-4519-b679-5c3b1e5a37cc" />
+<img width="971" height="613" alt="image" src="https://github.com/user-attachments/assets/6667f56b-39b7-4483-aa3d-1037f162aba0" />
 
 <img width="845" height="563" alt="image" src="https://github.com/user-attachments/assets/c034a3b4-0929-422e-a8e8-c5a0eb64fe96" />
 This project follows the stranded guide from forge connecting the RP2040 to the Lora module leading into a antenna 
